@@ -1,0 +1,264 @@
+2024-12-11 04:48:26,GET,User,Fetching category records with ID: ALL
+2024-12-11 04:48:26,GET,User,Fetching category records with ID: ALL
+2024-12-11 04:48:26,GET,User,Executing query on table: categories with ID: ALL
+2024-12-11 04:48:26,GET,User,Executing query on table: categories with ID: ALL
+2024-12-11 04:48:26,GET,User,Query executed successfully on table: categories.
+2024-12-11 04:48:26,GET,User,Query executed successfully on table: categories.
+2024-12-11 04:48:26,GET,User,Successfully fetched category records.
+2024-12-11 04:48:26,GET,User,Successfully fetched category records.
+2024-12-11 04:51:24,POST,test_user,Created a new category record.
+2024-12-11 04:51:24,POST,test_user,Created a new category record.
+2024-12-11 04:53:22,DELETE,User,Attempting to delete category with ID: 334
+2024-12-11 04:53:22,DELETE,User,Attempting to delete category with ID: 334
+2024-12-11 04:53:22,DELETE,User,Successfully deleted record from categories with ID: 334
+2024-12-11 04:53:22,DELETE,User,Successfully deleted record from categories with ID: 334
+2024-12-11 04:56:38,POST,test_user,Created a new category record.
+2024-12-11 04:56:38,POST,test_user,Created a new category record.
+2024-12-11 04:56:46,DELETE,User,Attempting to delete category with ID: 334
+2024-12-11 04:56:46,DELETE,User,Attempting to delete category with ID: 334
+2024-12-11 04:56:46,DELETE,User,Successfully deleted record from categories with ID: 334
+2024-12-11 04:56:46,DELETE,User,Successfully deleted record from categories with ID: 334
+2024-12-11 04:56:46,DELETE,User,Successfully deleted category with ID: 334
+2024-12-11 04:56:46,DELETE,User,Successfully deleted category with ID: 334
+2024-12-11 04:57:33,DELETE,User,Attempting to delete category with ID: 334
+2024-12-11 04:57:33,DELETE,User,Attempting to delete category with ID: 334
+2024-12-11 04:57:33,DELETE,User,Successfully deleted record from categories with ID: 334
+2024-12-11 04:57:33,DELETE,User,Successfully deleted record from categories with ID: 334
+2024-12-11 04:57:33,DELETE,User,Successfully deleted category with ID: 334
+2024-12-11 04:57:33,DELETE,User,Successfully deleted category with ID: 334
+2024-12-11 04:57:49,DELETE,User,Attempting to delete category with ID: 335
+2024-12-11 04:57:49,DELETE,User,Attempting to delete category with ID: 335
+2024-12-11 04:57:49,DELETE,User,Successfully deleted record from categories with ID: 335
+2024-12-11 04:57:49,DELETE,User,Successfully deleted record from categories with ID: 335
+2024-12-11 04:57:49,DELETE,User,Successfully deleted category with ID: 335
+2024-12-11 04:57:49,DELETE,User,Successfully deleted category with ID: 335
+2024-12-11 04:58:06,POST,test_user,Created a new category record.
+2024-12-11 04:58:06,POST,test_user,Created a new category record.
+2024-12-11 05:25:37,GET,User,Fetching item records with ID: ALL
+2024-12-11 05:25:37,GET,User,Fetching item records with ID: ALL
+2024-12-11 05:25:37,GET,User,Executing query on table: items with ID: ALL
+2024-12-11 05:25:37,GET,User,Executing query on table: items with ID: ALL
+2024-12-11 05:25:37,GET,User,Query executed successfully on table: items.
+2024-12-11 05:25:37,GET,User,Query executed successfully on table: items.
+2024-12-11 05:25:37,GET,User,Successfully fetched item records.
+2024-12-11 05:25:37,GET,User,Successfully fetched item records.
+2024-12-11 06:07:12,GET,User,Fetching user records with ID: ALL
+2024-12-11 06:07:12,GET,User,Fetching user records with ID: ALL
+2024-12-11 06:07:12,GET,User,Executing query on table: users with ID: ALL
+2024-12-11 06:07:12,GET,User,Executing query on table: users with ID: ALL
+2024-12-11 06:07:12,GET,User,Query executed successfully on table: users.
+2024-12-11 06:07:12,GET,User,Query executed successfully on table: users.
+2024-12-11 06:07:12,GET,User,Successfully fetched user records.
+2024-12-11 06:07:12,GET,User,Successfully fetched user records.
+2024-12-11 06:22:57,GET,User,Fetching user records with ID: ALL
+2024-12-11 06:22:57,GET,User,Fetching user records with ID: ALL
+2024-12-11 06:22:57,GET,User,Executing query on table: users with ID: ALL
+2024-12-11 06:22:57,GET,User,Executing query on table: users with ID: ALL
+2024-12-11 06:22:57,GET,User,Query executed successfully on table: users.
+2024-12-11 06:22:57,GET,User,Query executed successfully on table: users.
+2024-12-11 06:22:57,GET,User,Successfully fetched user records.
+2024-12-11 06:22:57,GET,User,Successfully fetched user records.
+2024-12-11 06:23:10,GET,User,Fetching user records with ID: ALL
+2024-12-11 06:23:10,GET,User,Fetching user records with ID: ALL
+2024-12-11 06:23:10,GET,User,Executing query on table: users with ID: ALL
+2024-12-11 06:23:10,GET,User,Executing query on table: users with ID: ALL
+2024-12-11 06:23:10,GET,User,Query executed successfully on table: users.
+2024-12-11 06:23:10,GET,User,Query executed successfully on table: users.
+2024-12-11 06:23:10,GET,User,Successfully fetched user records.
+2024-12-11 06:23:10,GET,User,Successfully fetched user records.
+2024-12-11 07:01:51,GET,User,Fetching category records with ID: ALL
+2024-12-11 07:01:51,GET,User,Fetching category records with ID: ALL
+2024-12-11 07:01:51,GET,User,Executing query on table: categories with ID: ALL
+2024-12-11 07:01:51,GET,User,Executing query on table: categories with ID: ALL
+2024-12-11 07:01:51,GET,User,Query executed successfully on table: categories.
+2024-12-11 07:01:51,GET,User,Query executed successfully on table: categories.
+2024-12-11 07:01:51,GET,User,Successfully fetched category records.
+2024-12-11 07:01:51,GET,User,Successfully fetched category records.
+2024-12-11 07:05:11,GET,User,Fetching category records with ID: 1
+2024-12-11 07:05:11,GET,User,Fetching category records with ID: 1
+2024-12-11 07:05:11,GET,User,Executing query on table: categories with ID: 1
+2024-12-11 07:05:11,GET,User,Executing query on table: categories with ID: 1
+2024-12-11 07:05:11,GET,User,No data found for table: categories.
+2024-12-11 07:05:11,GET,User,No data found for table: categories.
+2024-12-11 07:05:11,GET,User,Failed to fetch category records. Error: No data found
+2024-12-11 07:05:11,GET,User,Failed to fetch category records. Error: No data found
+2024-12-11 07:05:14,GET,User,Fetching category records with ID: 2
+2024-12-11 07:05:14,GET,User,Fetching category records with ID: 2
+2024-12-11 07:05:14,GET,User,Executing query on table: categories with ID: 2
+2024-12-11 07:05:14,GET,User,Executing query on table: categories with ID: 2
+2024-12-11 07:05:14,GET,User,Query executed successfully on table: categories.
+2024-12-11 07:05:14,GET,User,Query executed successfully on table: categories.
+2024-12-11 07:05:14,GET,User,Successfully fetched category records.
+2024-12-11 07:05:14,GET,User,Successfully fetched category records.
+2024-12-11 07:05:17,GET,User,Fetching category records with ID: 3
+2024-12-11 07:05:17,GET,User,Fetching category records with ID: 3
+2024-12-11 07:05:17,GET,User,Executing query on table: categories with ID: 3
+2024-12-11 07:05:17,GET,User,Executing query on table: categories with ID: 3
+2024-12-11 07:05:17,GET,User,Query executed successfully on table: categories.
+2024-12-11 07:05:17,GET,User,Query executed successfully on table: categories.
+2024-12-11 07:05:17,GET,User,Successfully fetched category records.
+2024-12-11 07:05:17,GET,User,Successfully fetched category records.
+2024-12-11 08:48:57,GET,User,Fetching category records with ID: ALL
+2024-12-11 08:48:57,GET,User,Fetching category records with ID: ALL
+2024-12-11 08:48:57,GET,User,Executing query on table: categories with ID: ALL
+2024-12-11 08:48:57,GET,User,Executing query on table: categories with ID: ALL
+2024-12-11 08:48:57,GET,User,Query executed successfully on table: categories.
+2024-12-11 08:48:57,GET,User,Query executed successfully on table: categories.
+2024-12-11 08:48:57,GET,User,Successfully fetched category records.
+2024-12-11 08:48:57,GET,User,Successfully fetched category records.
+2024-12-11 09:20:35,GET,User,Fetching category records with ID: ALL
+2024-12-11 09:20:35,GET,User,Fetching category records with ID: ALL
+2024-12-11 09:20:35,GET,User,Executing query on table: categories with ID: ALL
+2024-12-11 09:20:35,GET,User,Executing query on table: categories with ID: ALL
+2024-12-11 09:20:35,GET,User,Query executed successfully on table: categories.
+2024-12-11 09:20:35,GET,User,Query executed successfully on table: categories.
+2024-12-11 09:20:35,GET,User,Successfully fetched category records.
+2024-12-11 09:20:35,GET,User,Successfully fetched category records.
+2024-12-11 09:21:26,GET,User,Fetching item records with ID: ALL
+2024-12-11 09:21:26,GET,User,Fetching item records with ID: ALL
+2024-12-11 09:21:26,GET,User,Executing query on table: items with ID: ALL
+2024-12-11 09:21:26,GET,User,Executing query on table: items with ID: ALL
+2024-12-11 09:21:26,GET,User,Query executed successfully on table: items.
+2024-12-11 09:21:26,GET,User,Query executed successfully on table: items.
+2024-12-11 09:21:26,GET,User,Successfully fetched item records.
+2024-12-11 09:21:26,GET,User,Successfully fetched item records.
+2024-12-11 09:21:52,GET,User,Fetching item records with ID: ALL
+2024-12-11 09:21:52,GET,User,Fetching item records with ID: ALL
+2024-12-11 09:21:52,GET,User,Executing query on table: items with ID: ALL
+2024-12-11 09:21:52,GET,User,Executing query on table: items with ID: ALL
+2024-12-11 09:21:52,GET,User,Query executed successfully on table: items.
+2024-12-11 09:21:52,GET,User,Query executed successfully on table: items.
+2024-12-11 09:21:52,GET,User,Successfully fetched item records.
+2024-12-11 09:21:52,GET,User,Successfully fetched item records.
+2024-12-11 09:25:36,GET,User,Fetching item image records with ID: ALL
+2024-12-11 09:25:36,GET,User,Fetching item image records with ID: ALL
+2024-12-11 09:25:36,GET,User,Executing query on table: item_images with ID: ALL
+2024-12-11 09:25:36,GET,User,Executing query on table: item_images with ID: ALL
+2024-12-11 09:25:36,GET,User,Query executed successfully on table: item_images.
+2024-12-11 09:25:36,GET,User,Query executed successfully on table: item_images.
+2024-12-11 09:25:36,GET,User,Successfully fetched item image records.
+2024-12-11 09:25:36,GET,User,Successfully fetched item image records.
+2024-12-11 09:29:10,GET,User,Fetching category records with ID: 1
+2024-12-11 09:29:10,GET,User,Fetching category records with ID: 1
+2024-12-11 09:29:10,GET,User,Executing query on table: categories with ID: 1
+2024-12-11 09:29:10,GET,User,Executing query on table: categories with ID: 1
+2024-12-11 09:29:10,GET,User,No data found for table: categories.
+2024-12-11 09:29:10,GET,User,No data found for table: categories.
+2024-12-11 09:29:10,GET,User,Failed to fetch category records. Error: No data found
+2024-12-11 09:29:10,GET,User,Failed to fetch category records. Error: No data found
+2024-12-11 09:29:22,GET,User,Fetching category records with ID: 2
+2024-12-11 09:29:22,GET,User,Fetching category records with ID: 2
+2024-12-11 09:29:22,GET,User,Executing query on table: categories with ID: 2
+2024-12-11 09:29:22,GET,User,Executing query on table: categories with ID: 2
+2024-12-11 09:29:22,GET,User,Query executed successfully on table: categories.
+2024-12-11 09:29:22,GET,User,Query executed successfully on table: categories.
+2024-12-11 09:29:22,GET,User,Successfully fetched category records.
+2024-12-11 09:29:22,GET,User,Successfully fetched category records.
+2024-12-11 09:30:02,GET,User,Fetching item image records with ID: ALL
+2024-12-11 09:30:02,GET,User,Fetching item image records with ID: ALL
+2024-12-11 09:30:02,GET,User,Executing query on table: item_images with ID: ALL
+2024-12-11 09:30:02,GET,User,Executing query on table: item_images with ID: ALL
+2024-12-11 09:30:02,GET,User,Query executed successfully on table: item_images.
+2024-12-11 09:30:02,GET,User,Query executed successfully on table: item_images.
+2024-12-11 09:30:02,GET,User,Successfully fetched item image records.
+2024-12-11 09:30:02,GET,User,Successfully fetched item image records.
+2024-12-11 09:31:32,GET,User,Fetching item records with ID: ALL
+2024-12-11 09:31:32,GET,User,Fetching item records with ID: ALL
+2024-12-11 09:31:32,GET,User,Executing query on table: items with ID: ALL
+2024-12-11 09:31:32,GET,User,Executing query on table: items with ID: ALL
+2024-12-11 09:31:32,GET,User,Query executed successfully on table: items.
+2024-12-11 09:31:32,GET,User,Query executed successfully on table: items.
+2024-12-11 09:31:32,GET,User,Successfully fetched item records.
+2024-12-11 09:31:32,GET,User,Successfully fetched item records.
+2024-12-11 09:46:46,GET,User,Fetching category records with ID: 
+2024-12-11 09:46:46,GET,User,Fetching category records with ID: 
+2024-12-11 09:46:46,GET,User,Executing query on table: categories with ID: 
+2024-12-11 09:46:46,GET,User,Executing query on table: categories with ID: 
+2024-12-11 09:46:46,GET,User,No data found for table: categories.
+2024-12-11 09:46:46,GET,User,No data found for table: categories.
+2024-12-11 09:46:46,GET,User,Failed to fetch category records. Error: No data found
+2024-12-11 09:46:46,GET,User,Failed to fetch category records. Error: No data found
+2024-12-11 09:46:54,GET,User,Fetching category records with ID: ALL
+2024-12-11 09:46:54,GET,User,Fetching category records with ID: ALL
+2024-12-11 09:46:54,GET,User,Executing query on table: categories with ID: ALL
+2024-12-11 09:46:54,GET,User,Executing query on table: categories with ID: ALL
+2024-12-11 09:46:54,GET,User,Query executed successfully on table: categories.
+2024-12-11 09:46:54,GET,User,Query executed successfully on table: categories.
+2024-12-11 09:46:54,GET,User,Successfully fetched category records.
+2024-12-11 09:46:54,GET,User,Successfully fetched category records.
+2024-12-11 09:52:12,GET,User,Fetching category records with ID: ALL
+2024-12-11 09:52:12,GET,User,Fetching category records with ID: ALL
+2024-12-11 09:52:12,GET,User,Executing query on table: categories with ID: ALL
+2024-12-11 09:52:12,GET,User,Executing query on table: categories with ID: ALL
+2024-12-11 09:52:12,GET,User,Query executed successfully on table: categories.
+2024-12-11 09:52:12,GET,User,Query executed successfully on table: categories.
+2024-12-11 09:52:12,GET,User,Successfully fetched category records.
+2024-12-11 09:52:12,GET,User,Successfully fetched category records.
+2024-12-11 09:52:21,GET,User,Fetching category records with ID: ALL
+2024-12-11 09:52:21,GET,User,Fetching category records with ID: ALL
+2024-12-11 09:52:21,GET,User,Executing query on table: categories with ID: ALL
+2024-12-11 09:52:21,GET,User,Executing query on table: categories with ID: ALL
+2024-12-11 09:52:21,GET,User,Query executed successfully on table: categories.
+2024-12-11 09:52:21,GET,User,Query executed successfully on table: categories.
+2024-12-11 09:52:21,GET,User,Successfully fetched category records.
+2024-12-11 09:52:21,GET,User,Successfully fetched category records.
+2024-12-11 09:55:24,GET,User,Fetching category records with ID: ALL
+2024-12-11 09:55:24,GET,User,Fetching category records with ID: ALL
+2024-12-11 09:55:24,GET,User,Executing query on table: categories with ID: ALL
+2024-12-11 09:55:24,GET,User,Executing query on table: categories with ID: ALL
+2024-12-11 09:55:24,GET,User,Query executed successfully on table: categories.
+2024-12-11 09:55:24,GET,User,Query executed successfully on table: categories.
+2024-12-11 09:55:24,GET,User,Successfully fetched category records.
+2024-12-11 09:55:24,GET,User,Successfully fetched category records.
+2024-12-11 12:40:18,GET,User,Fetching category records with ID: ALL
+2024-12-11 12:40:18,GET,User,Fetching category records with ID: ALL
+2024-12-11 12:40:18,GET,User,Executing query on table: categories with ID: ALL
+2024-12-11 12:40:18,GET,User,Executing query on table: categories with ID: ALL
+2024-12-11 12:40:18,GET,User,Query executed successfully on table: categories.
+2024-12-11 12:40:18,GET,User,Query executed successfully on table: categories.
+2024-12-11 12:40:18,GET,User,Successfully fetched category records.
+2024-12-11 12:40:18,GET,User,Successfully fetched category records.
+2024-12-11 12:46:02,GET,User,Fetching category records with ID: ALL
+2024-12-11 12:46:02,GET,User,Fetching category records with ID: ALL
+2024-12-11 12:46:02,GET,User,Executing query on table: categories with ID: ALL
+2024-12-11 12:46:02,GET,User,Executing query on table: categories with ID: ALL
+2024-12-11 12:46:02,GET,User,Query executed successfully on table: categories.
+2024-12-11 12:46:02,GET,User,Query executed successfully on table: categories.
+2024-12-11 12:46:02,GET,User,Successfully fetched category records.
+2024-12-11 12:46:02,GET,User,Successfully fetched category records.
+2024-12-11 12:46:51,GET,User,Fetching category records with ID: ALL
+2024-12-11 12:46:51,GET,User,Fetching category records with ID: ALL
+2024-12-11 12:46:51,GET,User,Executing query on table: categories with ID: ALL
+2024-12-11 12:46:51,GET,User,Executing query on table: categories with ID: ALL
+2024-12-11 12:46:51,GET,User,Query executed successfully on table: categories.
+2024-12-11 12:46:51,GET,User,Query executed successfully on table: categories.
+2024-12-11 12:46:51,GET,User,Successfully fetched category records.
+2024-12-11 12:46:51,GET,User,Successfully fetched category records.
+2024-12-11 12:49:44,POST,test_user,Created a new category record.
+2024-12-11 12:49:44,POST,test_user,Created a new category record.
+2024-12-11 12:49:46,POST,test_user,Failed to create category: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'name'
+2024-12-11 12:49:46,POST,test_user,Failed to create category: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'name'
+2024-12-11 12:49:46,POST,test_user,Failed to create category: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'name'
+2024-12-11 12:49:46,POST,test_user,Failed to create category: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'name'
+2024-12-11 12:49:47,POST,test_user,Failed to create category: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'name'
+2024-12-11 12:49:47,POST,test_user,Failed to create category: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'name'
+2024-12-11 12:53:35,POST,test_user,Failed to create category: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'name'
+2024-12-11 12:53:35,POST,test_user,Failed to create category: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'name'
+2024-12-11 13:00:03,POST,test_user,Failed to create category: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'name'
+2024-12-11 13:00:03,POST,test_user,Failed to create category: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'name'
+2024-12-11 13:13:40,GET,User,Fetching category records with ID: ALL
+2024-12-11 13:13:40,GET,User,Fetching category records with ID: ALL
+2024-12-11 13:13:40,GET,User,Executing query on table: categories with ID: ALL
+2024-12-11 13:13:40,GET,User,Executing query on table: categories with ID: ALL
+2024-12-11 13:13:40,GET,User,Query executed successfully on table: categories.
+2024-12-11 13:13:40,GET,User,Query executed successfully on table: categories.
+2024-12-11 13:13:40,GET,User,Successfully fetched category records.
+2024-12-11 13:13:40,GET,User,Successfully fetched category records.
+2024-12-11 13:28:02,GET,User,Fetching category records with ID: ALL
+2024-12-11 13:28:02,GET,User,Fetching category records with ID: ALL
+2024-12-11 13:28:02,GET,User,Executing query on table: categories with ID: ALL
+2024-12-11 13:28:02,GET,User,Executing query on table: categories with ID: ALL
+2024-12-11 13:28:02,GET,User,Query executed successfully on table: categories.
+2024-12-11 13:28:02,GET,User,Query executed successfully on table: categories.
+2024-12-11 13:28:02,GET,User,Successfully fetched category records.
+2024-12-11 13:28:02,GET,User,Successfully fetched category records.
